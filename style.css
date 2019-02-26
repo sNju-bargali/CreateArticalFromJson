@@ -1,0 +1,10 @@
+h1{
+    font-weight: bold;
+}
+#mediaStory{
+    border-bottom: 1px solid #ccc;
+    margin: 15px 0;
+}
+img{
+    width: 100%;
+}
