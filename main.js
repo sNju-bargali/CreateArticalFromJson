@@ -26,7 +26,7 @@ xmlhttp.onreadystatechange = function() {
             // image.setAttribute('src',value.originalimageurl);
             // li.appendChild(image);
             return '<div><img src=' + value.originalimageurl +'></div>';
-          }else{
+          } else{
             return item;
           }
         })
